@@ -416,3 +416,26 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# Node / pnpm
+node_modules/
+.pnpm-store/
+pnpm-debug.log
+npm-debug.log
+dist/
+build/
+coverage/
+.vscode/
+.DS_Store
+
+# Env & local config
+.env
+.env.*
+!.env.example
+.env.template
+
+# Python (if you later choose Django)
+__pycache__/
+*.pyc
+.venv/
+pip-wheel-metadata/

@@ -1,0 +1,13 @@
+{
+  "name": "portfolio",
+  "private": true,
+  "version": "0.0.0",
+  "description": "Interactive developer portfolio: systems thinking, data, demos.",
+  "packageManager": "pnpm@10.15.0",
+  "scripts": {
+    "build": "pnpm -r build",
+    "dev": "echo \"Use app-level dev scripts (apps/web, apps/api)\"",
+    "lint": "pnpm -r lint",
+    "test": "pnpm -r test"
+  }
+}
