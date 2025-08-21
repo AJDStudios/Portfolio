@@ -27,3 +27,10 @@
 - Added dev dependencies: `tsx`, `typescript`, `vitest`, `supertest`.  
 - Verified API dev server on `localhost:4000` with `/health` route.  
 - Confirmed monorepo root tooling (lint, format, test) applies cleanly across apps.  
+
+## [0.0.5] - 2025-08-21 - "#5 Add CI/CD baseline & branch protection"
+
+- Added GitHub Actions workflow for monorepo: install deps, lint, test, build web & api.
+- Enabled branch protection on main (PR + passing checks required).
+- Added CI status badge to README.md.
+- Enabled Dependabot for npm updates.
