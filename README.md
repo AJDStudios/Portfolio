@@ -1,3 +1,5 @@
+[![CI](https://github.com/AJDStudios/portfolio/actions/workflows/ci.yml/badge.svg)](https://github.com/AJDStudios/portfolio/actions/workflows/ci.yml)
+
 # Aaron’s Portfolio (v2)
 
 This repo is the home of my new developer portfolio site.  
