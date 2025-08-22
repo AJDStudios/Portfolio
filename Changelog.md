@@ -34,3 +34,13 @@
 - Enabled branch protection on main (PR + passing checks required).
 - Added CI status badge to README.md.
 - Enabled Dependabot for npm updates.
+
+## [0.0.6] - 2025-08-22 - "#6 Repo polish & templates"
+
+- Added issue templates: `bug.md`, `feature.md`, `task.md`.  
+- Added PR template with checklist (tests, a11y, screenshots if UI).  
+- Added `SECURITY.md` and `PRIVACY.md` (linked from README).  
+- Created GitHub Project board (Backlog → In Progress → Review → Done).  
+- Updated `PROJECT_PLAN.md` with Phase 1–3 bullets and cadence.  
+- Updated `README.md` with week 1 status and links.  
+- **Note:** This repo will also be cloned and saved as a reusable project template.
